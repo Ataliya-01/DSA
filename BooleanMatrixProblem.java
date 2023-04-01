@@ -72,6 +72,11 @@ Evidently, the first row contains a 1 so fill the whole row with 1. The second r
 
 1 1 
 1 1
+Constraints
+1 <= m, n <= 300
+
+Mat[i][j] ∈ {0,1}
+
  */
 
 
@@ -118,6 +123,7 @@ public static boolean Check(int i,int n,int[][]mat){
 	}
 	return false;
 }
+}
 
 
 
@@ -125,4 +131,3 @@ public static boolean Check(int i,int n,int[][]mat){
 
 
 		
-}

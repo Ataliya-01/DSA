@@ -42,7 +42,15 @@ Output:
 Explanation:
 
 The elements of the matrix have been printed column wise.
+
+Constraints
+1 <= T <= 10
+
+1 <= N,M <= 1000
+
+0 <= A[i] <= 100000
  */
+
 
 
 

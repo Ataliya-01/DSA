@@ -40,14 +40,16 @@ Explanation
 
 We do a 90 degree clockwise rotation of the matrix.
 
+Constraints
+1 <= n <= 100
  */
+
 
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
 public class RotateMatrixBy90Degree
-
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{

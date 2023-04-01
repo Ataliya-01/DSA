@@ -41,8 +41,14 @@ Explanation
 We enter the matrix at (0,0) we move to (0,1) and encounter a 1 so we change it to 0 and move right to (1,1), we again encounter 1 and turn right.
 
 Then we leave the matrix from (1,0). Thus the output is 1 0.
- */
 
+Constraints
+1 <= m,n <= 100
+
+matrix[i][j] is 0, 1
+
+
+ */
 
 
 import java.util.*;

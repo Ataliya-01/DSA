@@ -50,7 +50,13 @@ Output
 Explanation
 
 The rows and columns are switched. For example: 6 was at position 0, 1 in original matrix. In the transposed matrix, it is at position 1, 0.
+Constraints
+1 <= N <= 100
+
+-10^3 <= mat[i][j] <= 10^3
  */
+
+
 
 
 import java.util.*;

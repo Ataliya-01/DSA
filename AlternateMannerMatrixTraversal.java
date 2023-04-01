@@ -40,8 +40,11 @@ Explanation
 
 There are 3 rows in the matrix. In the first row from left to right the elements are :- 7 2 3. As this is an odd row, they will printed from left to right. In the second row from left to right the elements are :- 2 3 4. As this is an even row elements, will be printed from right to left. In the third row, from left to right the elements are :- 5 6 1. As this is an odd row they will printed from left to right.
 
- */
+Constraints
+1<=M<=300
 
+1<=N<=300
+ */
 
 
 import java.util.*;

@@ -35,7 +35,14 @@ Output
 Explanation
 
 Here the minimum value is 7 in the third row and the largest value in the 1st column.
+
+Constraints
+1 <= n <= 10^3
+
+1 <= mat[i][j] <=10^5
+
  */
+
 
 import java.util.*;
 

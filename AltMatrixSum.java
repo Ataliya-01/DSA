@@ -45,8 +45,15 @@ Black squares contain 3, 4: sum = 7
 
 White squares contain 5, 7: sum = 12
 
+Constraints
+1 <= N <= 1000
+
+1 <= matrix[i][j] <= 10^5
+
 
  */
+
+
 
 import java.io.*;
 import java.util.*;
