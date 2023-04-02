@@ -43,7 +43,15 @@ Output:
 Explanation:
 
 We iterate spirally and print each element.
+
+Constraints:
+1 <= T <= 10
+
+1 <= N,M <= 200
+
+0 <= A[i] <=1000000
  */
+
 
 
 import java.io.*;

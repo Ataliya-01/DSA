@@ -50,7 +50,13 @@ Next anti-diagonal is [[1, 5, 9]]
 Next anti-diagonal is [[4, 8]]
 
 and the last-diagonal is [[7]]
+
+CONSTRAINTS:
+1 <= N <= 500
+
+-10000 <= Mat[i][j] <= 10000
  */
+
 
 
 

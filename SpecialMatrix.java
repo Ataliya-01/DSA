@@ -45,8 +45,14 @@ false
 Explanation:
 
 The non-diagonal element in second row of first column is non-zero.
- */
 
+Constraints:
+1 <= T <= 10
+
+1 <= N <= 200
+
+0  <= A[i] <=1000000
+*/
 
 
 import java.io.*;

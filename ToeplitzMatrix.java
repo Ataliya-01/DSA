@@ -40,6 +40,14 @@ Explanation
 
 Diagonals are [5], [3], [3,3] and [7,7]. As the all values in each diagonal from top-left to bottom right are equal, it is a toeplitz matrix.
 
+Constraints
+m == matrix.length
+
+n == matrix[i].length
+
+1 <= m, n <= 20
+
+0 <= matrix[i][j] <= 99
  */
 
 

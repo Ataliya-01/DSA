@@ -46,7 +46,13 @@ Output
 Explanation
 
 Sum of lower triangle is 1+6+5= 12 and upper triangle is 1+6+2 = 9
+
+Constraints
+1 <= n <= 10^3
+
+1 <= mat[i][j] <=10^3
  */
+
 
 
 import java.util.*;
