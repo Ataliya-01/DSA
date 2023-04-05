@@ -26,7 +26,10 @@ Input
 Output
 
 No value
+Constraints
+1 <= N <= 10^6
  */
+
 
 
 import java.io.*;

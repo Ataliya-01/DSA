@@ -1,4 +1,4 @@
-/* /* Conditional Problem 4
+/* Conditional Problem 4
 
 You are given a letter of English alphabets. Write a program using switch case to print the following outputs for different inputs as :
 
@@ -30,7 +30,13 @@ G
 Output
 
 I don't belong here
+Constraints
+character c is always uppercase English letter.
+
  */
+
+
+
 
 import java.util.*;
 

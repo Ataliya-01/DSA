@@ -37,7 +37,14 @@ Output
 Explanation
 
 4 is the only composite number. It is removed.
+
+Constraints
+1 <= N <= 10000
+
+1 <= A[i] <= 10000
  */
+
+
 
 
 import java.util.*;

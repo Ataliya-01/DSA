@@ -43,6 +43,9 @@ Explanation
 19%5 will be 4 as it does not match any of the switch cases it will go to the
 
 Default switch case therefore printing Remainder is too large
+
+Constraints
+0 <= a, b <= 10^8
  */
 
 

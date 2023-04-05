@@ -30,8 +30,10 @@ Input
 Output
 
 I am just a number
-
+Constraints
+1 <= N <= 10^6
  */
+
 
 import java.io.*;
 import java.util.*;

@@ -1,4 +1,4 @@
-/* /* Mathematical Operations
+/* Mathematical Operations
 
 You are given two positive integers. You have to calculate the result of performing +,-,*,/,% operations on them.
 
