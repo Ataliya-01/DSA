@@ -57,7 +57,7 @@ Then, c is repeated 3 times so, c3 is added.
 
 Constraints
 1 <= T <= 10
-1 <= |S| <= 1000
+1 <= |S| <= 100000
  */
 
 

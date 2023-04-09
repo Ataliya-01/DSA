@@ -37,13 +37,18 @@ Abc1
 Explanation
 
 All the lower case alphabets got converted into upper case and vice versa.
- */
 
+Constraints
+`1 <= N <= 2*10^5``
+
+where n is the size of the string.
+ */
 
 
 import java.util.*;
 
-public class ToggleCharacters {
+public class ToggleCharacters
+ {
 
     public static void main (String[] args) throws java.lang.Exception
 	{

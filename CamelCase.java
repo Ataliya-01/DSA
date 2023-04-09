@@ -40,8 +40,12 @@ howAreYou
 Explanation:
 
 We remove the underscores and convert the next character to uppercase.
- */
 
+Constraints
+1 <= T <= 10
+
+1 <= |S| <= 100000
+ */
 
 
 import java.util.*;

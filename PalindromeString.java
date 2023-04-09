@@ -34,9 +34,7 @@ It is a palindrome.
 
 Constraints
 1 <= str.length <= 10000
-
  */
-
 
 
 import java.io.*;

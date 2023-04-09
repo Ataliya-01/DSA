@@ -1,4 +1,4 @@
-/* Good Strings
+Good Strings
 
 You are given a set 'S' of distinct characters. You are also given an array 'A' of 'N' strings.
 
@@ -59,7 +59,7 @@ Constraints
 1 <= N <= 1000
 
 1 <= |A[i]| <= 1000
- */
+
 
 
 

@@ -38,8 +38,11 @@ Piece
 Explanation
 
 We separate each word and print them in a new line.
- */
 
+Constraints
+1 <= |str| <= 10000
+
+ */
 
 
 import java.io.*;
