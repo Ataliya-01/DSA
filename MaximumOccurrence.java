@@ -1,4 +1,5 @@
 /* Maximum occurrence
+
 You are given an array arr of length n. Your task is to print the element which has maximum occurrences in the array. If two elements have the same occurrence then print the smaller element
 
 Input Format
@@ -39,6 +40,7 @@ Constraints
 1 <= n <= 10^6
 
 1 <= arr[i] <= 10^9
+
  */
 
 
