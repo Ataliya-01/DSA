@@ -1,4 +1,5 @@
 /* 0-1 Sorting
+
 You are given an array arr of length n containing only 0's and 1's. Your task is to segregate all the 0's to the left of the array and all the 1's to the right of the array.
 
 Input Format
@@ -42,8 +43,6 @@ Constraints
 
 0 <= arr[i] <= 1
  */
-
-
 
 import java.util.*;
 

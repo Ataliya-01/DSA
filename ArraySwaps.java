@@ -1,4 +1,5 @@
 /* Array Swaps
+
 Hitesh has an array A of N integers. He wants his friend to sort the array in the non-decreasing order. Since it would be a too easy problem, Hitesh allows him to use only the following operation:
 
 Choose indices i and j such that 1 ≤ i, j ≤ n, and |i−j|≥X. Then, swap elements A[i] and A[j].
@@ -47,7 +48,6 @@ In this test case, you can do the operations as follows:
 (Here, swap(ai, aj) refers to swapping elements at positions i, j).
 
  */
-
 
 
 
